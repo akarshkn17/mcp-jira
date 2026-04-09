@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+jira_mcp_api.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output Data
+export.csv
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
